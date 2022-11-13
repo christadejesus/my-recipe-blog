@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/my-recipe-blog/static/css/main.073c9b0a.css",
+    "main.js": "/my-recipe-blog/static/js/main.9df31e31.js",
+    "static/js/787.e8967015.chunk.js": "/my-recipe-blog/static/js/787.e8967015.chunk.js",
+    "static/media/logo.svg": "/my-recipe-blog/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/my-recipe-blog/index.html",
+    "main.073c9b0a.css.map": "/my-recipe-blog/static/css/main.073c9b0a.css.map",
+    "main.9df31e31.js.map": "/my-recipe-blog/static/js/main.9df31e31.js.map",
+    "787.e8967015.chunk.js.map": "/my-recipe-blog/static/js/787.e8967015.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.9df31e31.js"
+  ]
+}
